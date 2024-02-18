@@ -1,0 +1,137 @@
+.header {
+    background-color: #21243D;
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    background-color: #21243D;
+    color: #88F2C8;
+    font-family: "Trirong", serif;
+}
+.header-menu {
+    background-color: #21243D;
+    color: #EBA42E;
+    display: flex;
+    list-style: none;
+}
+.header-item {
+    margin-right: 50px;
+}
+.header-link {
+    text-decoration: none;
+    color: #EBA42E;
+    font-family: "Trirong", serif;
+}
+.body {
+    background-color: #21243D;
+}
+.title {
+    color:#88F2C8;
+    background-color: #21243D;
+    text-align: center;
+    margin-top: 130px;
+    font-size: 56px;
+}
+.description {
+    color: #FFD082;
+    font-size: 24px;
+    text-align: center;
+}
+.picture {
+    width: 900px;
+    margin-left: 300px;
+    
+}
+.about {
+    color: #EAEF3A;
+    font-size: 56px;
+    text-align: center;
+}
+.info {
+    color: #FFD082;
+    font-size: 20px;
+    text-align: center;
+}
+.section {
+    margin-bottom: 100px;
+}
+.games {
+    margin-bottom: 100px;
+}
+.games2 {
+    margin-bottom: 100px;
+}
+.games-title {
+    position: relative;
+    color: #EBA42E;
+    font-size: 56px;
+    font-weight: 600;
+    margin-left: 200px;
+}
+.games-text {
+    font-size: 24px;
+    color: #EBA42E;
+    font-weight: 600;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.games-text1 {
+    font-size: 24px;
+    color: #88E1F2;
+    font-weight: 600;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+.games-title2 {
+    font-size: 24px;
+    color: #EBA42E;
+    font-weight: 600;
+    margin-left: 150px;
+}
+
+.games-text2 {
+    font-size: 24px;
+    color: #88E1F2;
+    font-weight: 600;
+    margin-left: 150px;
+}
+.link {
+    text-decoration: none;
+    color: #FF7C7C;  
+}
+.link1 {
+    text-decoration: none;
+    color: #FF0000;
+}
+.link2 {
+    color: #EBA42E;
+    text-decoration: none;
+}
+.games-about {
+    color: #88E1F2;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.footer-text {
+    color: #88E1F2;
+    margin-left: 620px;
+}
+.footer-image {
+    margin-left: 550px;
+}
+.games-block {
+    display: flex;
+    justify-content: space-between;
+}
+.games-text3 {
+    font-size: 24px;
+    color: #88E1F2;
+    font-weight: 600;
+    margin-left: 70px;
+}
+.games-text4 {
+    font-size: 24px;
+    color: #88E1F2;
+    font-weight: 600;
+    margin-left: 500px;
+}
